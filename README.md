@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [View live sit](https://github.com/Jayajo5/QR-Code-Challenge-.git)e]
+- Live Site URL: [View live sit](https://github.com/Jayajo5/QR-Code-Challenge-.git)
 
 ## My process
 I started by analyzing the provided design and breaking it into sections. The main structure consists of a container with a QR code image and a text description.
