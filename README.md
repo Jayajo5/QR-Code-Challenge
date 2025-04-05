@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-design-using-flexbox-rMo0oiyk9v]
-- Live Site URL: [https://github.com/Jayajo5/QR-Code-Challenge-.git]
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-design-using-flexbox-rMo0oiyk9v)
+- Live Site URL: [Add live site URL here](https://jayajo5.github.io/QR-Code-Challenge/)
 
 ## My process
 I started by analyzing the provided design and breaking it into sections. The main structure consists of a container with a QR code image and a text description.
